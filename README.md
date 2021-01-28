@@ -8,8 +8,8 @@
 1.2.1 [Исходные данные](#initial_data)  
 1.2.2 [Возможности бизнеса](#business_opportunities)  
 1.3 [Аналоги](#analogues)  
-1.3.1 [Project Pongs](#pr_pong)
-1.3.2 [Laser Paddles](#Laser_Pong)
+1.3.1 [Row_Row](#Row_Row)
+1.3.2 [Fun_Race_3D](#Fun_Race_3D)
 1.4 [Правила игры](#Rools)
 2. [Требования пользователя](#user_requirements)  
 2.1 [Программные интерфейсы](#software_interfaces)  
@@ -52,7 +52,7 @@
 
 ## 1.3 Аналоги
 
-<a name = "pr_pong"/>
+<a name = "Row_Row"/>
 
 ### 1.3.1 Row Row
 
@@ -62,7 +62,7 @@
 
 Row Row - мобильная 3D игра, суть которой заключается в преодолении препядстий, управляя лодкой. 
 
-<a name = "Laser_Pong"/>
+<a name = "Fun_Race_3D"/>
 
 ### 1.3.2 Fun Race 3D
 
